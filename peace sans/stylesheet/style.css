@@ -1,0 +1,21 @@
+@import 'reset.css';
+@import 'content.css';
+@font-face {
+    font-family: "peace_sans";
+    src: url("../fonts/peace_sans.otf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+p{
+font-family: "peace_sans" ;
+font-size: 60px;
+}
+
+
+
+
+
+
+    
+
